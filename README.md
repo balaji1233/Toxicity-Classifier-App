@@ -1,4 +1,5 @@
 # Toxicity-Classifier-App
 This is the "Toxicity Classifier App" . This takes text as an input and classify that between toxic and non-toxic.
-##Result
-Toxicity Classifier Model Result.png
+
+
+![Result of Toxicity classifier Model](Toxicity Classifier Model Result.png)
